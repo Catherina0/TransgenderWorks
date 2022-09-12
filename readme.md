@@ -1,4 +1,4 @@
-Feel free to use all materials that in this repository for non-profit purposes under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
+Feel free to use all materials in this repository for non-profit purposes under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
 Updating...
 
 
